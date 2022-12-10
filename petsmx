@@ -1,0 +1,6 @@
+getgenv().key = "paste key here"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
+
+
+----------
+link get key: https://w41k3rscripts.com/projectwd/index.php
