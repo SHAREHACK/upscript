@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GUXX0001/Hub/main/tpchestfix.lua"))()
