@@ -1,2 +1,6 @@
+link get key: https://direct-link.net/369809/hyper
+----------------
+
+
 repeat wait() until game:IsLoaded()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua"))()
