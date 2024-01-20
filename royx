@@ -1,0 +1,5 @@
+----roy x main
+loadstring(game:HttpGet('https://www.hngaming.tk/royxmain.txt'))()
+
+---- roy x kaitun
+loadstring(game:HttpGet('https://www.hngaming.tk/royxkaitun.txt'))()
